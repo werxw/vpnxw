@@ -794,5 +794,5 @@ function getVLESSConfig(userID, hostName) {
 	}
   }
 const cn_hostnames = [
-'www.bing.com'
+'chat.openai.com'
 ];
